@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lokesh4477
-- 👀 I’m interested in ... work as software trainee
+- 👀 I’m interested in ... work as software Engineer
 - 🌱 I’m currently learning ... sql,powerapps,sharepoint,core java,git
 - 💞️ I’m looking to collaborate on ... who are ready to support my journy
 - 📫 How to reach me ...
